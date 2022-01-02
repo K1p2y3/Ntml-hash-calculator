@@ -1,6 +1,6 @@
 # Ntml-hash-calculator
 
-> Test pyqt5 打包起来太大了
+> Test pyqt5 
 
 ![](jpeg/Snipaste_2021-08-02_16-17-10.png)
 
